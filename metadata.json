@@ -1,0 +1,6 @@
+{
+  "name": "Operaseg Corretora de Seguros",
+  "description": "Corretora de seguros em Ponta Grossa - PR. Especialista em seguro automóvel, frotas empresariais, máquinas agrícolas, residencial, vida e empresarial com as melhores seguradoras do país.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
